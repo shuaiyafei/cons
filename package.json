@@ -1,1 +1,20 @@
-
+{
+  "name": "cons",
+  "version": "1.0.0",
+  "description": "> 平时工作中和面试中遇到的问题，持续补充。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuaiyafei/cons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuaiyafei/cons/issues"
+  },
+  "homepage": "https://github.com/shuaiyafei/cons#readme"
+}
